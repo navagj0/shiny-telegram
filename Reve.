@@ -1,8 +1,0 @@
-curl --request GET \
---url "https://api.github.com/user" \
---header "Accept: application/vnd.github+json" \
---header "Authorization: Bearer USER_ACCESS_TOKEN" \
---header "X-GitHub-Api-Version: 2022-11-28""Not-for-profit" 
-means that an organization is established and operated for purposes 
-other than generating profit for owners, shareholders, or individual 
-members (beyond reasonable compensation for services rendered). Instead, 
